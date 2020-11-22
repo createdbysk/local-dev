@@ -1,3 +1,6 @@
+# Ignore generated files
+docker-compose.*.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
